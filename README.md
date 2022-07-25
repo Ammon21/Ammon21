@@ -38,6 +38,20 @@ python, HTML, CSS.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+ ## My Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Micky373&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=Ammon21&count_private=true&theme=buefy&showicons=true)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammon21&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)
+
+![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Ammon21&)
+
+<br />
+<br />
+
+
+
 ### Connect with me
 
   📣 Contact me: <br/>
